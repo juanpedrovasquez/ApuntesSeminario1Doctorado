@@ -8,7 +8,7 @@
    1. [Instaladores de R y RStudio (para Windox)](https://drive.google.com/drive/folders/1FUcXg4-QrTVJMFPby_VfjfY6gRpdA3yx?usp=sharing)
 1. Sesión 02 (2018-11-17)
    1. [Materiales de la sesión](https://drive.google.com/open?id=1Mxufo4Bh7hU6x3sz0TA0vbuInGHxL-9f)
-   1. Apuntes
+   1. [Apuntes](https://github.com/juanpedrovasquez/ApuntesSeminario1Doctorado/blob/master/session_02_2018-11-17.ipynb)
 1. Sesión 03 (2018-11-24) 
 ---
 
