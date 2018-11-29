@@ -12,6 +12,7 @@
 1. Sesión 03 (2018-11-24)
    1. [Apuntes](https://github.com/juanpedrovasquez/ApuntesSeminario1Doctorado/blob/master/session_03_2018-11-24.ipynb) 
 1. Sesión 04 (2018-12-01)
+   1. [Materiales de la sesión: 2 archivos de nombres parecidos, pero distintos](https://drive.google.com/drive/folders/1LkIpkwPSE0FrD6FZ-GBXQ52daoksG0l8?usp=sharing)
    1. [Apuntes](https://github.com/juanpedrovasquez/ApuntesSeminario1Doctorado/blob/master/session_04_2018-12-01.ipynb)
 ---
 
